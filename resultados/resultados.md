@@ -1,10 +1,9 @@
 # Resultados del laboratorio — GitHub + Big O + Estructuras de Datos
 
-## Integrantes
+## Integrante
 | Nombre | Carné |
 |---|---|
 | Gabriel Alessandro Castillo Panilla | 202400786 |
-| _(agregar integrante)_ | |
 
 ## URL RAW utilizada
 <!-- URL_INICIO -->

@@ -18,11 +18,10 @@ la **misma operación de búsqueda** en:
 
 Los datos (100,000 estudiantes) se publican en este repositorio y Python los consume desde la **URL RAW** de GitHub.
 
-## Integrantes
+## Integrante
 | Nombre | Carné |
 |---|---|
 | Gabriel Alessandro Castillo Panilla | 202400786 |
-| _(agregar integrante)_ | |
 
 ## Estructura
 ```
