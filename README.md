@@ -44,7 +44,7 @@ big-o-estructuras-datos/
 Requisitos: Python 3 (sin librerías externas) y conexión a Internet.
 
 ```bash
-git clone https://github.com/<usuario>/big-o-estructuras-datos.git
+git clone https://github.com/gabro140/big-o-estructuras-datos.git
 cd big-o-estructuras-datos
 
 # 1. (Opcional) regenerar el dataset — ya viene publicado en data/
